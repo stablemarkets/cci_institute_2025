@@ -5,7 +5,7 @@ May 29, 2025
 Slides and all example codes references are in Part1/
 
 ## Session 2: 10:45 AM-12:15 PM
-Slides and all example codes references are in Part1/
+Slides and all example codes references are in Part2/
 
 ## Reference
 This course is heavily based on the following paper:
